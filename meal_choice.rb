@@ -10,13 +10,13 @@ def breakfast(nom="Frosted Flakes")
 end
 puts breakfast("Pancakes")
 
-def lunch(yum="Grilled Cheese")
+def lunch(yum="grilled cheese")
   "Afternoon is the right time for #{yum}!"
 end
 puts lunch("Pancakes")
 puts lunch
 
-def dinner(crunch="Salmon")
+def dinner(crunch="salmon")
   "Evening is the right time for #{crunch}!"
 end
 puts dinner("Broccoli")
