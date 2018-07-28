@@ -5,7 +5,7 @@ end
 puts snacks("Swedish fish")
 puts snacks
 
-def breakfast(nom="Frosted Flakes")
+def breakfast(nom="frosted flakes")
   "Morning is the right time for #{nom}!"
 end
 puts breakfast("Pancakes")
