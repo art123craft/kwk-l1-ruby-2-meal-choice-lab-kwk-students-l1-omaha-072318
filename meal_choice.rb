@@ -11,9 +11,13 @@ end
 puts breakfast("Pancakes")
 
 def lunch(yum="Grilled Cheese")
-  "Any time, is the right time for #{yum}!"
+  "Afternoon is the right time for #{yum}!"
 end
 puts lunch("Pancakes")
 puts lunch
 
-
+def dinner(crunch="Salmon")
+  "Evening is the right time for #{crunch}!"
+end
+puts dinner("Broccoli")
+puts dinner
