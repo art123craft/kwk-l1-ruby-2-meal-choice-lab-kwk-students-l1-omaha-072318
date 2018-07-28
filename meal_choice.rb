@@ -13,7 +13,7 @@ puts breakfast("Pancakes")
 def lunch(yum="grilled cheese")
   "Afternoon is the right time for #{yum}!"
 end
-puts lunch("Pancakes")
+puts lunch("Sandwitch")
 puts lunch
 
 def dinner(crunch="salmon")
