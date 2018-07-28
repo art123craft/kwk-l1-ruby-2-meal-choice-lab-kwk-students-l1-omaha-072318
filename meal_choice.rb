@@ -6,7 +6,7 @@ puts snacks("Swedish fish")
 puts snacks
 
 def breakfast(nom="Frosted Flakes")
-  "Morning, is the right time for #{nom}!"
+  "Morning is the right time for #{nom}!"
 end
 puts breakfast("Pancakes")
 puts breakfast
