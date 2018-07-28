@@ -9,7 +9,6 @@ def breakfast(nom="Frosted Flakes")
   "Morning is the right time for #{nom}!"
 end
 puts breakfast("Pancakes")
-puts breakfast
 
 def lunch(yum="Grilled Cheese")
   "Any time, is the right time for #{yum}!"
